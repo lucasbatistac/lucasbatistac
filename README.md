@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lucasbatistac
-- 👀 I’m interested in  Big Data, Engenhria de Software e Inteligência Artificial
-- 🌱 I’m currently learning Ciência de Dados 
+- 👋 Hi, I’m @lucasbatistac;
+- 👀 I’m interested in  Big Data, Engenhria de Software, Inteligência Artificial e Back-end;
+- 🌱 I’m currently learning Analise e Desenvolvimento de Sistemas;
 - 💞️ I’m looking to collaborate on tudo .
 - 📫 How to reach me lucasbatistac@outlook.com
 
